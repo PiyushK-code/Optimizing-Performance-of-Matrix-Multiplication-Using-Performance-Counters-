@@ -53,7 +53,5 @@ Below are the available targets:
 The performance of each version can be evaluated using performance monitoring tools like perf to measure events like cache misses, TLB misses, and page faults. 
 These measurements are key to correlating the memory hierarchy performance with the execution time of each version.
 
-## Author
-- Piyush Kumar
-- Ritika 
+
 
